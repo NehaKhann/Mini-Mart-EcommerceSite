@@ -1,0 +1,2 @@
+# Mini-Mart-EcommerceSite
+"This is an E-Commerce Site ,It's an online store containing different products, customers can come into our site and can add their desired products ,can track their orders as well they can then check-out and choose the payment gateway.It is fully responsive further more customers can sort the products as per their requirements &amp; can add items in their wish-list as well. There are different pages like Home ,About us,contact us,shop ,blog etc.This is made although using free sources but has very basic and essential features."
